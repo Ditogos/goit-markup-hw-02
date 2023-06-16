@@ -123,7 +123,7 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.section-images-title {
+.section-doing-title {
   color: var(--backgrong-footer-color);
   font-size: 36px;
   line-height: 1.11;
@@ -142,9 +142,11 @@
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+.section-background-color {
+  background-color: var(--backgrond-page-color);
+}
 .section-images-title {
   color: var(--backgrong-footer-color);
-  background-color: var(--backgrond-page-color);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
