@@ -129,11 +129,36 @@
   letter-spacing: 0.02em;
 }
 .section-images-title {
-  font-family: var(--prymary-font);
-  color: var(--backgrond-page-color);
+  color: var(--backgrong-footer-color);
+  font-size: 36px;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  text-align: center;
+}
+.section-portfolio-list {
+  background-color: var(--footer-text-color);
+}
+.section-portfolio-title {
+  color: var(--backgrong-footer-color);
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+}
+.section-images-title {
+  color: var(--backgrong-footer-color);
+  background-color: var(--backgrond-page-color);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.section-images-text {
+  color: var(--slite-title-color);
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .footer {
