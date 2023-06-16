@@ -67,6 +67,9 @@
 .adress-list .link:focus {
   color: var(--hover-focus-color);
 }
+.main-section-buisness {
+  background-color: var(--backgrong-footer-color);
+}
 .main-section-title {
   font-family: var(--prymary-font);
   color: var(--backgrond-page-color);
@@ -97,6 +100,10 @@ h1 {
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+}
+.button-text-section:hover,
+.button-text-section:focus {
+  background-color: var(--hover-focus-color);
 }
 .main-info-title {
   font-family: var(--prymary-font);
