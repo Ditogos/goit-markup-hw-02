@@ -50,8 +50,8 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.nav-list .link:hover,
-.nav-list .link:focus {
+.nav-list-studio .link:hover,
+.nav-list-studio .link:focus {
   color: var(--hover-focus-color);
 }
 .adress-list {
