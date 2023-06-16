@@ -83,14 +83,6 @@
 .list {
   list-style: none;
 }
-h1 {
-  font-size: var(--prymary-font);
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
-}
 .button-text-section {
   font-family: var(--prymary-font);
   color: var(--backgrond-page-color);
@@ -106,22 +98,11 @@ h1 {
   background-color: var(--hover-focus-color);
 }
 .main-info-title {
-  font-family: var(--prymary-font);
-  color: var(--backgrond-page-color);
+  color: var(--backgrong-footer-color);
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-}
-h2 {
-  font-family: var(--prymary-font);
-  color: var(--backgrong-footer-color);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
 }
 h3 {
   font-family: var(--prymary-font);
