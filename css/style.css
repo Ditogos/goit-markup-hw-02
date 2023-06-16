@@ -174,7 +174,7 @@
   text-transform: uppercase;
 }
 .footer .studio {
-  color: var(--backgrond-page-color);
+  color: var(--footer-text-color);
   font-family: var(--title-font);
   font-weight: 800;
   font-size: 18px;
