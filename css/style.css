@@ -100,13 +100,6 @@
 .button-text-section:focus {
   background-color: var(--hover-focus-color);
 }
-.main-info-h1 {
-  font-size: var(--prymary-font);
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.1;
-  text-align: center;
-}
 .main-info-title {
   color: var(--backgrong-footer-color);
   font-weight: 500;
