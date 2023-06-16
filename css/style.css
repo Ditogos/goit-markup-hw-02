@@ -83,6 +83,9 @@
 .list {
   list-style: none;
 }
+.link {
+  text-decoration: none;
+}
 .button-text-section {
   font-family: var(--prymary-font);
   color: var(--backgrond-page-color);
